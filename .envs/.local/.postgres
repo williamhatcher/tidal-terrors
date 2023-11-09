@@ -1,0 +1,7 @@
+# PostgreSQL
+# ------------------------------------------------------------------------------
+POSTGRES_HOST=postgres
+POSTGRES_PORT=5432
+POSTGRES_DB=tidal_terrors
+POSTGRES_USER=GzQfyRBktvggnKFuhgryMErGdDevLNDF
+POSTGRES_PASSWORD=ErqTyZhYrqccc1UyIWghT2rPwrBtSwrSqJePmUaHO7BmUBIhO1LVhje87z7XfExJ
